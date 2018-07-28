@@ -1,5 +1,5 @@
 <?php 
-
+//O(n^2) time complexity
 function solution($A) {
     $min = [];
     $max = [];
