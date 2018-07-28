@@ -1,6 +1,4 @@
-// you can write to stdout for debugging purposes, e.g.
-// print "this is a debug message\n";
-
+<?php
 function solution($A) {
     $distinct = 0;
     
